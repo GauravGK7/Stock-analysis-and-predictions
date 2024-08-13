@@ -1,0 +1,16 @@
+langchain 
+openai
+streamlit
+python-dotenv
+unstructured
+tiktoken
+pinecone-client
+pypdf
+pandas
+numpy
+langchain-community
+scikit-learn
+tensorflow
+yfinance
+xgboost
+matplotlib
